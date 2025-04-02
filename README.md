@@ -11,7 +11,7 @@ Front-End Web Developer (React, HTML, CSS, Tailwind, JS) with PHP backend knowle
 * [Trying to perfect my react skills]
   
 ## Contact
-* [yanmifeigwe@gmail.com
+* yanmifeigwe@gmail.com
 <!---
 Yanmife123/Yanmife123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
